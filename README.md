@@ -3,6 +3,8 @@ Họ và tên : Trần Minh Hải
 
 Ngày sinh : 18/09/2004
 
+Thành công không có dấu chân của kẻ lười biếng
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/p/tr%E1%BA%A7n-minh-h%E1%BA%A3i-100041666683033/) 
 
